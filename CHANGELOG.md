@@ -3,8 +3,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | [README](README.md) | [API_OVERVIEW](API_OVERVIEW.md) | [CHANGELOG](CHANGELOG.md) | [SETUP_GUIDE](SETUP_GUIDE.md) | [USER_GUIDE](USER_GUIDE.md) |
 ***
-## 5. `CHANGELOG.md`
-
 # 📜 Журнал змін (CHANGELOG)
 
 Усі значні зміни у проєкті TutorConnect фіксуються в цьому файлі.
