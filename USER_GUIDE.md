@@ -1,3 +1,8 @@
+***
+| **Огляд** | **API** | **Журнал Змін** | **Встановлення** | **Гайд Користувача** |
+| :---: | :---: | :---: | :---: | :---: |
+| [README](README.md) | [API_OVERVIEW](API_OVERVIEW.md) | [CHANGELOG](CHANGELOG.md) | [SETUP_GUIDE](SETUP_GUIDE.md) | [USER_GUIDE](USER_GUIDE.md) |
+***
 # 📖 Посібник користувача (USER GUIDE)
 
 ### 👋 Як почати роботу з TutorConnect
